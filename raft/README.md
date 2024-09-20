@@ -179,7 +179,7 @@ It is a good idea to run the tests multiple times before submitting and check th
 $ for i in {0..10}; do go test; done
 ```
 
-# Project 4C: Raft based Distributed Lock Service (Bonus)
+# Part 4C: Raft based Distributed Lock Service (Bonus)
 
 
 ## Introduction
